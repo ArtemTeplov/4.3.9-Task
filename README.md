@@ -1,0 +1,2 @@
+{   "user": {     "email": "artemteplov@mail.ru",     "username": "artemteplov",     "bio": null,     "image": null,     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFydGVtdGVwbG92QG1haWwucn
+UiLCJ1c2VybmFtZSI6ImFydGVtdGVwbG92IiwiaWF0IjoxNjU1MDQwMTc2LCJleHAiOjE2NjAyMjQxNzZ9.zcqalYdfdcLReBV7EOC22bjt7wPMZfSqPaU8maB85Wk"   } }
